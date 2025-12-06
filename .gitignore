@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignorar archivos ocultos de windows que guardan configuraciones de vista, desktop.ini
+desktop.ini
+
