@@ -1,4 +1,4 @@
-# 🚀 Bootcamp Inteligencia Artificial - MinTIC 2025
+# 🚀 Bootcamp Inteligencia Artificial - MinTIC 2025 - cviloriam
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -75,9 +75,12 @@ Para visualizar y ejecutar los cuadernos de código (`.ipynb`):
 ## 👤 Autor
 
 **Carlos Viloria**
-* **Rol:** Ingeniero & Tech Lead | Scrum Master
+* **Rol:** Ingeniero de Sistemas · Magíster en Gestión de Proyectos TI · Scrum Master · Arquitecto de Soluciones
+* **Web:** [cviloriam](https://www.cviloriam.com/)
 * **GitHub:** [cviloriam](https://github.com/cviloriam)
-* **LinkedIn:** [Tu Perfil de LinkedIn Aquí]
+* **LinkedIn:** [cviloriam](https://www.linkedin.com/in/cviloriam)
+* **X (Twitter):** [cviloriam](https://x.com/cviloriam)
+* **LinkedIn:** [cviloriam](https://www.linkedin.com/in/cviloriam)
 
 ---
 *Este repositorio es parte de la evidencia académica del programa MinTIC 2025.*
