@@ -80,7 +80,6 @@ Para visualizar y ejecutar los cuadernos de código (`.ipynb`):
 * **GitHub:** [cviloriam](https://github.com/cviloriam)
 * **LinkedIn:** [cviloriam](https://www.linkedin.com/in/cviloriam)
 * **X (Twitter):** [cviloriam](https://x.com/cviloriam)
-* **LinkedIn:** [cviloriam](https://www.linkedin.com/in/cviloriam)
 
 ---
 *Este repositorio es parte de la evidencia académica del programa MinTIC 2025.*
