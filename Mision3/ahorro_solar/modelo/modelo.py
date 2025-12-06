@@ -27,5 +27,3 @@ with open('modelo.pkl','wb') as f:
     pickle.dump(modelo,f)
 with open('columnas.pkl','wb') as f:
     pickle.dump(x_encoded.columns.tolist(),f)
-
- 
